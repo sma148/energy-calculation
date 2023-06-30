@@ -10,7 +10,7 @@ const FreeElectricitySlider = ({ value, onChange }) => {
     };
 
     const tooltipValueText = (value) => {
-        return `${value}% - This is your estimate of the percentage of the free power that you will use out of the total power bill. This is only applicable for electricity plans that offer hours of free electricity. Otherwise, put down 0 here.`;
+        return `This is your estimated percentage of the power you will use within the "free-power-window" out of your total power usage each day. (default set to 20%)`;
     };
 
     const handleTooltipOpen = () => {
