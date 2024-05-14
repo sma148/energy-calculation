@@ -175,7 +175,7 @@ const App = () => {
                       Code: FRDK55B
                     </Typography>
                     <Typography align='center'>
-                      <Link href="https://contact.co.nz/friends/FRDK55B" variant="h5" sx={{ fontWeight: 'bold', mt: 2, color: 'red', align: 'center'}}>
+                      <Link href="https://contact.co.nz/friends/FR6Q6MH" variant="h5" sx={{ fontWeight: 'bold', mt: 2, color: 'red', align: 'center'}}>
                        Sign-up Link Click Here
                       </Link>
                     </Typography>
