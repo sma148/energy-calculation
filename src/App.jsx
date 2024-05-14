@@ -172,7 +172,7 @@ const App = () => {
                       Sign-up Now with my invitation Code and get $100 credit!
                     </Typography>
                     <Typography variant="h5" align="center" sx={{ fontWeight: 'bold', mt: 2, color: 'black'}}>
-                      Code: FRDK55B
+                      Code: FR6Q6MH
                     </Typography>
                     <Typography align='center'>
                       <Link href="https://contact.co.nz/friends/FR6Q6MH" variant="h5" sx={{ fontWeight: 'bold', mt: 2, color: 'red', align: 'center'}}>
